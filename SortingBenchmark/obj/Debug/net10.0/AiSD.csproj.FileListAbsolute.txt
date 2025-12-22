@@ -1,0 +1,14 @@
+/home/leatrix/RiderProjects/AiSD/AiSD/obj/Debug/net10.0/AiSD.GeneratedMSBuildEditorConfig.editorconfig
+/home/leatrix/RiderProjects/AiSD/AiSD/obj/Debug/net10.0/AiSD.AssemblyInfoInputs.cache
+/home/leatrix/RiderProjects/AiSD/AiSD/obj/Debug/net10.0/AiSD.AssemblyInfo.cs
+/home/leatrix/RiderProjects/AiSD/AiSD/obj/Debug/net10.0/AiSD.csproj.CoreCompileInputs.cache
+/home/leatrix/RiderProjects/AiSD/AiSD/bin/Debug/net10.0/AiSD
+/home/leatrix/RiderProjects/AiSD/AiSD/bin/Debug/net10.0/AiSD.deps.json
+/home/leatrix/RiderProjects/AiSD/AiSD/bin/Debug/net10.0/AiSD.runtimeconfig.json
+/home/leatrix/RiderProjects/AiSD/AiSD/bin/Debug/net10.0/AiSD.dll
+/home/leatrix/RiderProjects/AiSD/AiSD/bin/Debug/net10.0/AiSD.pdb
+/home/leatrix/RiderProjects/AiSD/AiSD/obj/Debug/net10.0/AiSD.dll
+/home/leatrix/RiderProjects/AiSD/AiSD/obj/Debug/net10.0/refint/AiSD.dll
+/home/leatrix/RiderProjects/AiSD/AiSD/obj/Debug/net10.0/AiSD.pdb
+/home/leatrix/RiderProjects/AiSD/AiSD/obj/Debug/net10.0/AiSD.genruntimeconfig.cache
+/home/leatrix/RiderProjects/AiSD/AiSD/obj/Debug/net10.0/ref/AiSD.dll
