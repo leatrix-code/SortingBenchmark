@@ -1,0 +1,15 @@
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/bin/Debug/net10.0/SortingBenchmark
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/bin/Debug/net10.0/SortingBenchmark.deps.json
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/bin/Debug/net10.0/SortingBenchmark.runtimeconfig.json
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/bin/Debug/net10.0/SortingBenchmark.dll
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/bin/Debug/net10.0/SortingBenchmark.pdb
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/SortingBenchmark.GeneratedMSBuildEditorConfig.editorconfig
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/SortingBenchmark.AssemblyInfoInputs.cache
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/SortingBenchmark.AssemblyInfo.cs
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/SortingBenchmark.csproj.CoreCompileInputs.cache
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/SortingBenchmark.sourcelink.json
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/SortingBenchmark.dll
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/refint/SortingBenchmark.dll
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/SortingBenchmark.pdb
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/SortingBenchmark.genruntimeconfig.cache
+/home/leatrix/RiderProjects/AiSD/SortingBenchmark/obj/Debug/net10.0/ref/SortingBenchmark.dll
